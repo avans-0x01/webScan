@@ -1,0 +1,10 @@
+{
+  "http_proxy": {
+    "enabled": false,
+    "address": "127.0.0.1:8080"
+  },
+  "cookie5_proxy": {
+    "enabled": false,
+    "address": "127.0.0.1:8080"
+  }
+}
