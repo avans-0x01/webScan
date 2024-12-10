@@ -26,7 +26,7 @@ poc_burp.py
 
 ![image](https://github.com/user-attachments/assets/e4b8bc8e-49da-4f83-acd0-d4debbc65b3b)
 
-ps:-是分开符合，-上面是请求包，下面则是需要正则匹配的返回包
+ps:-是区分符号，-上面是请求包，下面则是需要正则匹配的返回包
 
 执行poc_burp.py
 
