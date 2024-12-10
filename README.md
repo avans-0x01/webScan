@@ -1,6 +1,9 @@
 
 这是一款根据burp的请求包和返回包做的scan
 
+main.json是配置代理，目前支持http和cookie5
+![image](https://github.com/user-attachments/assets/306aefd4-a28a-4f68-b22d-5c3cf19d901c)
+
 webScan.py 指令如下
 
 -h  帮助信息
