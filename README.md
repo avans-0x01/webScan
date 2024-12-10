@@ -1,9 +1,14 @@
 这是一款根据burp的请求包和返回包做的scan
 webScan.py 指令如下
+
 -h  帮助信息
+
 -u  单个url扫描
+
 -o  获取root文件夹下的poc.指定poc -o deom.json，或全部扫描 -o  *
+
 -r 通过读取文件作为url扫描目标，比如-r url.txt -o *
+
 默认存在的会保存在当前目录为yes文件夹中
 
 ![image](https://github.com/user-attachments/assets/f659f30b-9968-41c6-994d-077c3393be9f)
